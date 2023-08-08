@@ -18,4 +18,4 @@ npm run test
 ```
 sonar-scanner
 ```
-* This project also uses [`jest-sonar-reporter`](https://www.npmjs.com/package/jest-sonar-reporter) to generate .
+* This project also uses [`jest-sonar-reporter`](https://www.npmjs.com/package/jest-sonar-reporter) to generate 
